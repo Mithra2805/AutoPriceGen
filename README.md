@@ -1,0 +1,1 @@
+**AutoPriceGen** is a machine learning model that predicts car prices based on features like make, model, age, mileage, and condition. It helps users estimate vehicle worth with high accuracy using historical data and market trends. The goal is to assist buyers and sellers in making informed pricing decisions.
